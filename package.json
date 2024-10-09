@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "prgames",
+=======
+  "name": "modgame",
+>>>>>>> 1dcfa21 (Initialize project using Create React App)
   "version": "0.1.0",
   "private": true,
   "dependencies": {
