@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# 🎮 PrGAmeStore: The MERN Web Game Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Gamestor Logo](src\components\image\download.png)
 
-## Available Scripts
+Welcome to **Gamestor** — a MERN stack-based web game store for pirated and forge games! Think of it as the Wikipedia for games: you can give games, take games, and contribute to a growing library of community-driven content.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> [View the Deployed App](https://prgamestore.onrender.com) <!-- Replace with your actual deployed URL -->
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Authentication:** JWT & Context API
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🌟 Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 🕹️ **Game Library:** Browse, search, and discover pirated and forge games.
+- 📥 **Upload & Share:** Add your own games for others to download.
+- 🔄 **Give & Take:** Download games from the community and contribute your own.
+- 📝 **Wiki-Style Info:** Each game has detailed, editable information — just like Wikipedia!
+- 🔒 **Authentication:** Secure login and registration for all users.
+- 🎨 **Modern UI:** Clean, responsive, and user-friendly interface.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📸 Preview
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![App Screenshot](public/image.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🧑‍💻 Getting Started
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/PunavShigwan/PRGamestore
+   ```
+2. **Install dependencies:**
+   ```bash
+   cd PRGamestore
+   npm install
+   ```
+3. **Start the frontend:**
+   ```bash
+   npm start
+   ```
+4. **Start the backend:**
+   See [Gamestor Backend](https://github.com/PunavShigwan/gamestoreBackend) <!-- Replace with your backend link -->
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📂 Project Structure
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- `/public` — Static assets and images
+- `/src` — React frontend code
+- `/backend` — Node.js/Express backend (see backend repo)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🤝 Contributing
 
-### Analyzing the Bundle Size
+Contributions are welcome! Feel free to fork the repo, open issues, or submit pull requests.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 📜 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project is for educational purposes only. All game content is user-submitted and for personal use.
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🔗 Links
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Frontend Repository](https://github.com/PunavShigwan/PRGamestore)
+- [Backend Repository](https://github.com/PunavShigwan/gamestoreBackend)
