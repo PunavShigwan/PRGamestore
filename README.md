@@ -3,7 +3,7 @@
 > **A community-driven, open-source platform to share, discover, and trade pirated & forge games — like Wikipedia, but for games!**
 
 <p align="center">
-  <img src="src/components/image/download.png" alt="Gamestor Logo" width="180" />
+  <img src="public/download.png" alt="Gamestor Logo" width="180" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ PrGAmeStore is a MERN stack-based web game store for pirated and forge games. Th
 ## 📸 Preview
 
 <p align="center">
-  <img src="src/components/image/image.png" alt="App Screenshot" width="350" />
+  <img src="public/image.png" alt="App Screenshot" width="350" />
 </p>
 
 ---
